@@ -1,123 +1,151 @@
- 
-<h1 align="center">Hey, I'm Saksham Sharma 👋</h1>
+ <div align="center">
 
-<h3 align="center">AI-Assisted Developer | Full-Stack Developer | Tech Enthusiast</h3>
+<!-- ========== HERO SECTION ========== -->
 
-<p align="center">
-  <a href="https://github.com/saksham3529">
-    <img src="https://komarev.com/ghpvc/?username=saksham3529&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/saksham3529?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:001F26,50:003B40,100:00E5C3&text=SAKSHAM%20SHARMA&fontColor=E6FFFB&fontSize=48&fontAlignY=45&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Saksham Sharma Developer Banner"/>
 
-<p align="center">
-  <i>"Building ideas into reality, one commit at a time."</i>
-</p>
+### `idea → code → innovation → product`
 
----
+**Building ideas into reality through technology.**
 
-## 🚀 About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=saksham3529&label=PROFILE+VIEWS&color=00C9A7&style=for-the-badge)](https://github.com/saksham3529)
+[![GitHub followers](https://img.shields.io/github/followers/saksham3529?label=FOLLOWERS&style=for-the-badge&color=00C9A7&logo=github)](https://github.com/saksham3529?tab=followers)
 
-- 👨‍💻 I'm Saksham Sharma, an enthusiastic developer who loves building things with technology.
-- 🔭 Currently working on **NEXUS** — Neural EXploration & Unified Securities Intelligence System.
-- 🌱 Exploring software development, AI-assisted coding, and creative editing.
-- 💡 Interested in frontend development, backend systems, and intelligent applications.
-- 🤝 Open to learning, collaborating, and building meaningful projects.
-- ⚡ Fun fact: I enjoy turning ambitious ideas into working projects with the help of AI.
+</div>
 
 ---
 
-## 🛠️ Languages & Technologies
+## `whoami` — About Me
 
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash"/></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" height="45" alt="Flask"/></a>
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" height="45" alt="Pandas"/></a>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="PyTorch"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/></a>
-  <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" height="45" alt="Blender"/></a>
-</p>
+```yaml
+name: Saksham Sharma
+username: saksham3529
+role: AI-Assisted Full-Stack Developer
+currently_building: NEXUS
+interests:
+  - Software Development
+  - Artificial Intelligence
+  - Frontend & Backend Engineering
+  - Creative Technology
+mindset: Learn | Build | Innovate
+```
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=saksham3529&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saksham3529&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com/?user=saksham3529&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
+- Building **NEXUS** — Neural EXploration & Unified Securities Intelligence System.
+- Exploring frontend and backend development.
+- Interested in AI-assisted development and intelligent applications.
+- Always experimenting with new ideas and technologies.
 
 ---
 
-## 📈 Contribution Activity
+## `./tech-stack` — Languages & Tools
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham3529&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
-</p>
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,bash" alt="Programming Languages"/>
+
+### Frameworks & Technologies
+
+<img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,git" alt="Frameworks and Technologies"/>
+
+### Creative & Data Tools
+
+<img src="https://skillicons.dev/icons?i=blender,pytorch" alt="Creative and AI Tools"/>
+
+</div>
 
 ---
 
-## 🏆 GitHub Achievements
+## `./github-analytics` — GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saksham3529&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saksham3529&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=00E5C3&icon_color=00E5C3" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham3529&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5C3" alt="Most Used Languages"/>
+
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## `./contribution-streak` — Coding Consistency
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=saksham3529&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5C3&fire=00E5C3&currStreakLabel=00E5C3" width="75%" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## `./activity-graph` — Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham3529&bg_color=0D1117&color=00E5C3&line=00C9A7&point=FFFFFF&area=true&hide_border=true&custom_title=SAKSHAM'S%20CONTRIBUTION%20GRAPH" width="100%" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## `./achievements` — GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=saksham3529&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub Achievements"/>
+
+</div>
+
+---
+
+## `./featured-projects` — Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/saksham3529?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=saksham3529&repo=saksham3529&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5C3" alt="Profile Repository"/>
+</a>
+
+</div>
 
 ### 🧠 NEXUS
+
 **Neural EXploration & Unified Securities Intelligence System**
 
-An ambitious stock-analysis project focused on intelligent market research, technical analysis, financial insights, and evidence-based assessments.
+An intelligent stock-analysis project focused on financial research, market analysis, technical indicators and evidence-based insights.
 
-- Python-powered backend
-- Financial data analysis
-- Intelligent analysis engine
-- Interactive frontend
-
-[Explore my GitHub repositories →](https://github.com/saksham3529?tab=repositories)
+[Explore my repositories →](https://github.com/saksham3529?tab=repositories)
 
 ---
 
-## 🐍 Contribution Snake
+## `./contribution-snake` — Contribution Animation
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksham3529/saksham3529/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saksham3529/saksham3529/output/github-snake.svg"/>
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/saksham3529/saksham3529/output/github-snake.svg" width="100%"/>
-  </picture>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/saksham3529/saksham3529/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## `./connect` — Let's Connect
 
-<p align="center">
-  <a href="https://github.com/saksham3529">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/saksham_3602l">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-  <br/>
-  <i>Keep learning. Keep building. Keep creating.</i>
-</p>
+<a href="https://github.com/saksham3529">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://instagram.com/saksham_3602l">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<p align="center">
-  ⭐ If you find something interesting in my repositories, consider giving it a star!
-</p>
+<br/><br/>
+
+**Thanks for visiting my GitHub profile!**
+
+`Keep Learning. Keep Building. Keep Innovating.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B40,100:00E5C3&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
